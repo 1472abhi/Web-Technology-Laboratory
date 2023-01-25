@@ -2,7 +2,7 @@
 # Web-Technology-Laboratory
 ## 🔗 practical 1 -   👇 
 
-LIVE LINK : https://1472abhi.github.io/
+LIVE LINK : https://1472abhi.github.io/Web-Technology-Laboratory/pr1
 
 ## 🔗 Practical 2 -   👇
 
