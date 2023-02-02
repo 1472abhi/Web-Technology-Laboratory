@@ -16,3 +16,6 @@ LIVE LINK : https://1472abhi.github.io/
 
 ## 🔗 Practical 5 -   👇
 LIVE LINK : https://1472abhi.github.io/
+
+## 🔗 Practical 6 -   👇
+LIVE LINK : https://1472abhi.github.io/
